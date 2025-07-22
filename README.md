@@ -24,7 +24,7 @@ Hands on wazuh siem simulation
 curl -sO https://packages.wazuh.com/4.12/wazuh-install.sh
 sudo bash wazuh-install.sh -a
 
-###🧪 FIM Test: Simulated Malware File (EICAR)
+🧪 FIM Test: Simulated Malware File (EICAR)
 ** 📅 Timestamp:* July 20, 2025 @ 13:45  
 ** 📸 Screenshot:* IMG_1817FFB8.jpg
 
